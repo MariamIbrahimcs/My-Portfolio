@@ -386,7 +386,7 @@ input:focus, textarea:focus {
     padding: 0 !important;
   }
   .technical {
-    width: 40%;
+     width: fit-content;
     margin: auto;
     margin-bottom: 20px;
   }
