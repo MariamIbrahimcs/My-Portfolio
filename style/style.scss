@@ -372,7 +372,7 @@ input:focus,textarea:focus{
     top: 50%;
     transform: translateY(-50%);
     width: 100%;
-    z-index: 2;
+    z-index: 5;
 }
 .github-icon,.linkedin-icon{
     // text-align: center;
@@ -403,6 +403,10 @@ transition: 0.25s ease;
 .row{
     z-index: 2 !important;
 }
+
+   .projects-show{
+        margin: auto;
+    }
 
 @media (max-width: 576px) {
 
